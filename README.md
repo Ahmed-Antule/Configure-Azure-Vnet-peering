@@ -55,8 +55,11 @@ Assign a name to peering link and select the virtual network you want to establi
 ![Capture12](https://github.com/user-attachments/assets/ad034fbb-077e-4f42-a78a-5e05faca4665)
 
 ### Step-5
-Check the IP address in both Virtual Machines(VM)
+#### Check the IP address in both Virtual Machines(VM)
+Checking IP address of first vm
 ![Capture14](https://github.com/user-attachments/assets/75e1485c-d0df-4908-8d06-e9c31cd2ed69)
+
+Checking IP address of second vm
 ![Capture15](https://github.com/user-attachments/assets/7d456705-3446-4cab-a3a4-aaf096b0bf98)
 
 Once IP Address is conformed, test the connection between both the VMs by pinging them
