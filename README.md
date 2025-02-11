@@ -18,6 +18,7 @@ Global VNet Peering – Allows peering across Azure regions (not just within a s
 Full Mesh Connectivity – Multiple VNets can be interconnected using hub-and-spoke or full mesh topologies.
 
 ## Summary
+Azure Virtual Network (VNet) Peering is a service that allows seamless connectivity between two Azure Virtual Networks (VNets) through Microsoft's backbone network. This enables resources in different VNets to communicate as if they were within the same network, without the need for additional infrastructure like VPNs or gateways.
 
 ### Step-1
 #### Creating Virtual Networks (VNet)
